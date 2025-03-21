@@ -1,6 +1,6 @@
 ---
-name: Pull Request
-about: Describe this issue template's purpose here.
+name: Feature-A Pull Request
+about: Show a greeting message to user and ask for their name
 title: ''
 labels: ''
 assignees: ''
@@ -8,6 +8,7 @@ assignees: ''
 ---
 
 ## Proposed changes
+ Added a welcome and get name file
 <br>
 
 ## Link to Product Tracker
@@ -19,7 +20,7 @@ assignees: ''
 
 ## Types of changes
 
-*What types of changes does your code introduce?*
+I added the javascript files to introduce the voter and ask for name
 
 _Put an `x` in the boxes that apply_
 

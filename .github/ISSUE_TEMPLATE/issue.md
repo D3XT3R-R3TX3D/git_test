@@ -1,5 +1,5 @@
 <br>
-name: Task Creation Template
+name: Feature A
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
@@ -7,15 +7,14 @@ assignees: ''
 
 <br>
 
-## Task Owner (Responsible): [First Name, Last Initial]
+## Task Owner (Responsible): [Eric, S.]
 
-## Task Assignee (Accountable): [First Name, Last Initial]
+## Task Assignee (Accountable): [Daniel, D.]
 
 ## Task Deadline: [MM/DD/YYYY]
 
-## Task Description:
+## Task Description: Show a greeting message to the user and ask for their name
 
-***Clearly describe the task, including what needs to be done and why.***
 
 ## Acceptance Criteria:
 
